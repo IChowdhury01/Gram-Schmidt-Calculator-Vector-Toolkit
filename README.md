@@ -49,7 +49,9 @@ These instructions will get you a copy of the project up and running on your loc
 - Download the MATLAB installer from the [Mathworks](https://www.mathworks.com/downloads/) site.
 - Install MATLAB.
 - Download this repository.
-- Open MATLAB and use the functions.
+- Open MATLAB.
+- Add the folder containing these files to your MATLAB path.
+- You can now freely use these MATLAB functions!
 
 ## Bugs
 - findProperties.m only lists Eigenvalues and Eigenvectors if the input matrix is 3-dimensional.
