@@ -22,7 +22,7 @@ This software performs various functions on inputted sets of vectors. Among its 
 
 ## Instructions
 
-- The software is simple and straightforward to use. All scripts except Test.m are MATLAB functions. To perform any of the above features, simply create a matrix or vector input data and run the corresponding function in the MATLAB command window.
+- The software is simple and straightforward to use. All scripts except Test.m are MATLAB functions. To perform any of the above features, simply create an input and run the corresponding function in the MATLAB command window.
 - All function inputs should either be a single vector or a matrix, where each column represents a vector.
 
 ### File descriptions
