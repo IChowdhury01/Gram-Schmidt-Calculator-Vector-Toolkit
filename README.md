@@ -34,6 +34,7 @@ This software performs various functions on inputted sets of vectors. Among its 
 - plotBasis.m - inputs a matrix and draws a basis plot if its column vectors. Must be either 2D or 3D.
 - findProperties.m - inputs a matrix and lists the properties of the set of column vectors.
 - Test.m - a script designed to test the Gram Schmidt and isOrthonormal functions.
+- test3a.mat - a data file used for testing.
 
 ## Getting Started
 
@@ -42,7 +43,6 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 
 - **MATLAB:** must be installed to run the various functions or open scripts.
-
 
 ### Installing
 
@@ -64,4 +64,4 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
