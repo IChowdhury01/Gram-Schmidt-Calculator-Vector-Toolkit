@@ -1,5 +1,5 @@
 # Gram Schmidt Calculator and Vector Toolkit
-![Bitbucket Pipelines](https://img.shields.io/bitbucket/pipelines/atlassian/adf-builder-javascript.svg) ![GitHub code size in bytes](https://img.shields.io/badge/code%20size-4.92kB-blue.svg?longCache=true&style=plastic)  ![GitHub repo size in bytes](https://img.shields.io/badge/repo%20size-7.33MB-blue.svg?longCache=true&style=plastic) ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg?style=plastic)
+![GitHub code size in bytes](https://img.shields.io/badge/code%20size-4.92kB-blue.svg?longCache=true&style=plastic)  ![GitHub repo size in bytes](https://img.shields.io/badge/repo%20size-7.33MB-blue.svg?longCache=true&style=plastic) ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg?style=plastic)
 
 This software performs various functions on inputted sets of vectors. Among its features are the ability to perform the Gram Schmidt process to orthonormalize a set of vectors, draw 2D and 3D basis plots of vectors, compute vector projections, test whether a set of vectors form an orthonormal basis, and more. The various features are listed in more detail below.
 
