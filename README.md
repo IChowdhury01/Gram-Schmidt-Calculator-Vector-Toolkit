@@ -40,9 +40,6 @@ This software performs various functions on inputted sets of vectors. Among its 
 
 These instructions will get you a copy of the project up and running on your local machine for development, testing, or consumer purposes.
 
-### Prerequisites
-
-- **MATLAB:** must be installed to run the various functions or open scripts.
 
 ### Installing
 
@@ -56,13 +53,6 @@ These instructions will get you a copy of the project up and running on your loc
 ## Bugs
 - findProperties.m only lists Eigenvalues and Eigenvectors if the input matrix is 3-dimensional.
 
-## Built With
-
-* [MATLAB](https://www.mathworks.com/downloads/) - the software and programming language used.
-
-## Authors
-
-* **Ivan Chowdhury**
 
 ## License
 
